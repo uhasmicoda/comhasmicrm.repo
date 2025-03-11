@@ -32,4 +32,9 @@ public class CreateContactTest {
 		System.out.println("execute deleteContactTest");
 
 	}
+	public void deletContactTest() {
+
+		System.out.println("execute deletContactTest");
+
+	}
 }
